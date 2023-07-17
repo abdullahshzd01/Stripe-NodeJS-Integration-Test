@@ -1,0 +1,15 @@
+.Checkout {
+    margin: 50px;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.Checkout:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #143f8f;
+}
